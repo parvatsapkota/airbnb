@@ -1,14 +1,13 @@
 # AirBnb Recommendation
-This program is intended to guide prospective AirBnB investor during their investment decision of AirBnB property and amenities to include once they get hold of the property. Currently, this is for Austin area.
+Built a system to help stakeholders identify locations for buying residential properties and then recommend amenities that are popular in that zipcode. Currently, this is for Austin area.
+<br><br>
+Here, I visualized multiple locations using h3, folium and geojson and recommended multiple amenities using SQL.
 <br>
-Here, property recommendation is near to listings, which got higher reviews on location but low overall reviews.
-<br>
-And, amenities recommendation is based on the most frequent amenities that listings in a particular zipcode had
 
-## 1)Locating the best value place: ##
+## 1)Locating the best value area: ##
 ![My Image](https://github.com/parvatsapkota/airbnb/blob/main/location_recommendation.JPG)
 <br>
 
-## 2)Recommendation for amenities to include: ##
+## 2)Recommendation for amenities: ##
 ![My Image](https://github.com/parvatsapkota/airbnb/blob/main/amenities_recommendation.png)
 <br>
